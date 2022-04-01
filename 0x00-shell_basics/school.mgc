@@ -1,5 +1,4 @@
-#!/bin/bash
 0 string SCHOOL School data
-!:mime School in vi environment
+!:mime School in vim environment
 In terminal
 file -C -m school.mgc
