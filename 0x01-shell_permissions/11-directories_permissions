@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo=rwx find  type ./* 
+chmod ugo=x find  type ./* 
